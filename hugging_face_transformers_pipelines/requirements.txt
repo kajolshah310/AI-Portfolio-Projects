@@ -1,0 +1,25 @@
+# Hugging Face Transformers library with sentencepiece for some models
+transformers[sentencepiece]>=4.40.0
+
+# Gradio for building interactive demos
+gradio>=3.50.0
+
+# Audio processing
+soundfile>=0.12.1
+
+# Numerical computations
+numpy>=1.24.0
+
+# Optional: Pillow for image processing
+Pillow>=9.5.0
+
+# Optional: Torch (PyTorch) backend for many Transformers models
+torch>=2.1.0
+
+# Optional: For text-to-speech pipelines
+torchaudio>=2.1.0
+
+# Optional: For image-to-text pipelines
+opencv-python>=4.8.0
+
+timm
