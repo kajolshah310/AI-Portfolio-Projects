@@ -48,6 +48,7 @@ You can try it yourself:
 
 ## Getting Started Locally
 
+```
 Clone this repo and install dependencies:
 
 ```bash
@@ -55,6 +56,7 @@ git clone https://github.com/kajolshah310/AI-Experiments-Portfolio.git
 cd AI-Experiments-Portfolio/hugging_face_transformers
 pip install -r requirements.txt
 ```
+
 ## Run the Gradio app:
 ```bash
 python app.py
