@@ -1,51 +1,38 @@
-# AI-Portfolio-Projects
-Daily AI/ML learning journey — building projects with LLMs, Generative AI, and Machine Learning
-# Hugging Face Transformers Pipelines
-This repository contains examples of using Hugging Face's Transformers library for NLP, computer vision, and audio tasks. It demonstrates pipelines, pre-trained models, and generating outputs for common AI tasks.
+# AI Experiments Portfolio
 
----
+This repository is a collection of hands-on AI/ML experiments and mini-projects, designed to explore modern concepts and frameworks in artificial intelligence.
 
-## Installation
+Each folder in this repo represents a focused experiment or project, complete with code, documentation, and (where applicable) interactive demos.
 
-Install the Transformers library with optional dependencies:
+## Projects
+
+- **hugging_face_transformers/**
+  - Experiments with Hugging Face Transformers pipelines across NLP, Computer Vision, and Audio tasks.
+  - Includes a Gradio app for interactive testing.
+  - [Hugging Face Space Demo](https://huggingface.co/spaces/kajolshah310/Transformers-Pipelines)
+
+*(More projects to be added as I continue this journey — RAG, LangChain, MCP, Agentic AI, and more.)*
+
+## Goals
+
+- Strengthen and showcase applied AI/ML skills.
+- Build an open portfolio of projects that explore state-of-the-art AI concepts.
+- Contribute to the open-source AI ecosystem.
+
+## Getting Started
+
+Clone the repo:
 
 ```bash
-pip install transformers[sentencepiece]
+git clone https://github.com/kajolshah310/AI-Experiments-Portfolio.git
+cd AI-Experiments-Portfolio
 ```
+Navigate to individual project folders for detailed instructions.
 
-## NLP Pipelines
+## Contact
 
-- **Sentiment Analysis**: Classify text as positive or negative.  
-- **Text Generation**: Generate text based on a prompt.  
-- **Text Classification**: Classify text into predefined categories.  
-- **Summarization**: Generate concise summaries from longer text.  
-- **Translation**: Translate text between languages (e.g., English → Hindi).  
-- **Zero-shot Classification**: Classify text without prior training on specific labels.  
-- **Feature Extraction**: Extract vector representations of text.  
-- **Question Answering**: Answer questions based on a given context.  
-- **Mask Filling**: Fill in blanks in text using predicted tokens.  
+Feel free to connect or collaborate:
 
-## Image Pipelines
+LinkedIn: https://www.linkedin.com/in/kajol-t-shah/
 
-- **Image Classification**: Classify objects in images.  
-- **Image-to-Text**: Generate descriptive captions for images.  
-- **Object Detection**: Detect objects and bounding boxes in images.  
-
-## Audio Pipelines
-
-- **Automatic Speech Recognition**: Convert speech to text.  
-- **Audio Classification**: Classify audio into categories.  
-- **Text-to-Speech**: Convert text into spoken audio.  
-
-## Key Points
-
-- Hugging Face Transformers provide pre-trained models for NLP, computer vision, and audio tasks.  
-- Pipelines allow quick inference without fine-tuning.  
-- Generation parameters like `temperature`, `max_length`, `top_k`, and `top_p` control output behavior.  
-- This repository serves as a hands-on learning exercise for using Transformers.  
-
-## References
-
-- [Hugging Face Transformers Documentation](https://huggingface.co/docs/transformers/index)  
-- [Hugging Face Model Hub](https://huggingface.co/models)  
-
+Hugging Face: https://huggingface.co/kajolshah310
