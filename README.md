@@ -1,6 +1,6 @@
 # AI-Portfolio-Projects
 Daily AI/ML learning journey — building projects with LLMs, Generative AI, and Machine Learning
-# Day 1 - Hugging Face Transformers Pipelines
+# Hugging Face Transformers Pipelines
 This repository contains examples of using Hugging Face's Transformers library for NLP, computer vision, and audio tasks. It demonstrates pipelines, pre-trained models, and generating outputs for common AI tasks.
 
 ---
